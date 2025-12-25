@@ -48,11 +48,7 @@ The complete design was implemented and verified in Logisim Evolution. Correct a
 - Digital Logic Design
 - Memory Interfacing Concepts
 
-## Repository Structure
-├── RAM_1M_16bit.circ
-├── screenshots/
-│   └── memory_interface.png
-└── README.md
+
 
 ## Learning Outcomes
 - Understanding of RAM expansion techniques
@@ -60,10 +56,6 @@ The complete design was implemented and verified in Logisim Evolution. Correct a
 - Practical memory interfacing
 - Scalable digital system design
 
-## Future Enhancements
-- Verilog HDL implementation
-- Dual-port RAM design
-- FPGA-based implementation
 
 ## Author
 Pushap Mohan Sharma  
